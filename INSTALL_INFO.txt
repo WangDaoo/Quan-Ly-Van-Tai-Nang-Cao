@@ -1,0 +1,211 @@
+Transport Management System - Installation Information
+Hệ Thống Quản Lý Vận Tải Toàn Diện
+
+Version: 1.0.0
+Release Date: December 2024
+
+================================================================================
+SYSTEM REQUIREMENTS
+================================================================================
+
+Minimum Requirements:
+- Operating System: Windows 10 (64-bit) or later
+- Processor: Intel Core i3 or equivalent
+- RAM: 4 GB
+- Hard Disk Space: 500 MB free space
+- Display: 1024x768 resolution or higher
+
+Recommended Requirements:
+- Operating System: Windows 11 (64-bit)
+- Processor: Intel Core i5 or equivalent
+- RAM: 8 GB or more
+- Hard Disk Space: 1 GB free space
+- Display: 1920x1080 resolution or higher
+
+================================================================================
+INSTALLATION NOTES
+================================================================================
+
+1. INSTALLATION DIRECTORY
+   - Default: C:\Program Files\Transport Management System
+   - You can choose a custom directory during installation
+   - Ensure you have write permissions for the selected directory
+
+2. DATA DIRECTORY
+   - The application stores its database and files in the data\ folder
+   - Default: [Installation Directory]\data
+   - This directory requires write permissions
+   - Make sure to backup this folder regularly
+
+3. FIRST RUN
+   - On first run, the application will:
+     * Create the database structure
+     * Load sample data for testing
+     * Create necessary directories (logs, backups)
+   - This process may take a few seconds
+
+4. PERMISSIONS
+   - The installer requires administrator privileges
+   - The application needs write access to:
+     * data\ folder (for database)
+     * logs\ folder (for log files)
+     * backups\ folder (for database backups)
+
+================================================================================
+WHAT'S INCLUDED
+================================================================================
+
+- Main Application (TransportManagementSystem.exe)
+- User Documentation
+  * User Manual (docs\USER_MANUAL.md)
+  * Quick Start Guide (docs\QUICK_START_GUIDE.md)
+  * Technical Documentation (docs\TECHNICAL_DOCUMENTATION.md)
+- Sample Data (loaded on first run)
+- Database Schema
+- Backup Utilities
+
+================================================================================
+FEATURES
+================================================================================
+
+✓ Trip Management
+  - Create, edit, and delete trip records
+  - Auto-generate trip codes
+  - Real-time data validation
+
+✓ Dynamic Forms
+  - 10 field types supported
+  - Customizable form layouts
+  - Real-time validation
+
+✓ Excel-Like Interface
+  - Copy/paste functionality
+  - Advanced filtering
+  - Column management
+  - Keyboard shortcuts
+
+✓ Autocomplete & Suggestions
+  - Smart autocomplete for customer names
+  - Location suggestions
+  - Price lookup from company databases
+
+✓ Formula Engine
+  - Automatic calculations
+  - Custom formulas
+  - Real-time updates
+
+✓ Workflow Automation
+  - Conditional data pushing
+  - Multi-department support
+  - Workflow history tracking
+
+✓ Import/Export
+  - Excel import with validation
+  - Excel export with formatting
+  - Configuration presets
+
+✓ Multi-Department Support
+  - Independent workspaces
+  - Department-specific configurations
+  - Data isolation
+
+================================================================================
+GETTING STARTED
+================================================================================
+
+After installation:
+
+1. Launch the application from:
+   - Start Menu > Transport Management System
+   - Desktop shortcut (if created during installation)
+
+2. The application will initialize on first run:
+   - Database will be created
+   - Sample data will be loaded
+   - Default departments will be set up
+
+3. Read the Quick Start Guide:
+   - Located in: docs\QUICK_START_GUIDE.md
+   - Provides step-by-step tutorials
+   - Covers basic operations
+
+4. Explore the features:
+   - Try creating a new trip record
+   - Test the autocomplete functionality
+   - Experiment with filtering
+   - Import/export Excel files
+
+================================================================================
+SUPPORT
+================================================================================
+
+For help and support:
+
+1. Documentation:
+   - User Manual: Complete feature documentation
+   - Quick Start Guide: Step-by-step tutorials
+   - Technical Documentation: Advanced topics
+
+2. Troubleshooting:
+   - Check logs\transportapp.log for error messages
+   - Ensure proper file permissions
+   - Verify system requirements are met
+
+3. Contact:
+   - Email: support@transportmanagement.com
+   - Website: https://github.com/yourusername/transport-management
+
+================================================================================
+UNINSTALLATION
+================================================================================
+
+To uninstall the application:
+
+1. Go to: Settings > Apps > Installed Apps
+2. Find "Transport Management System"
+3. Click Uninstall
+
+During uninstallation, you will be asked if you want to keep your data:
+- Select "Yes" to keep your database and files
+- Select "No" to completely remove all data
+
+Note: If you keep the data, you can reinstall later without losing information.
+
+================================================================================
+BACKUP RECOMMENDATIONS
+================================================================================
+
+Important: Always backup your data regularly!
+
+The application stores data in:
+- Database: data\transport.db
+- Backups: backups\ folder (automatic daily backups)
+
+Manual backup:
+1. Close the application
+2. Copy the entire data\ folder to a safe location
+3. Store backups on external drive or cloud storage
+
+Restore from backup:
+1. Close the application
+2. Replace data\transport.db with your backup file
+3. Restart the application
+
+================================================================================
+UPDATES
+================================================================================
+
+To check for updates:
+- Visit: https://github.com/yourusername/transport-management
+- Download the latest installer
+- Run the installer (it will update the existing installation)
+
+Note: Your data will be preserved during updates.
+
+================================================================================
+
+Thank you for choosing Transport Management System!
+
+For the latest information and updates, visit our website.
+
+© 2024 Transport Management. All rights reserved.

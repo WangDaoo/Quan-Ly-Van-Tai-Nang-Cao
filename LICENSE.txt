@@ -1,0 +1,60 @@
+Transport Management System License Agreement
+
+Copyright (c) 2024 Transport Management. All rights reserved.
+
+END-USER LICENSE AGREEMENT (EULA)
+
+IMPORTANT - READ CAREFULLY: This End-User License Agreement ("EULA") is a legal 
+agreement between you (either an individual or a single entity) and Transport 
+Management for the Transport Management System software product identified above, 
+which includes computer software and may include associated media, printed 
+materials, and "online" or electronic documentation ("SOFTWARE PRODUCT").
+
+By installing, copying, or otherwise using the SOFTWARE PRODUCT, you agree to be 
+bound by the terms of this EULA. If you do not agree to the terms of this EULA, 
+do not install or use the SOFTWARE PRODUCT.
+
+1. GRANT OF LICENSE
+Transport Management grants you the following rights:
+- Installation and Use: You may install and use the SOFTWARE PRODUCT on a single 
+  computer.
+- Backup Copy: You may make one backup copy of the SOFTWARE PRODUCT for archival 
+  purposes.
+
+2. DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS
+- Limitations on Reverse Engineering, Decompilation, and Disassembly: You may not 
+  reverse engineer, decompile, or disassemble the SOFTWARE PRODUCT.
+- Rental: You may not rent, lease, or lend the SOFTWARE PRODUCT.
+- Support Services: Transport Management may provide you with support services 
+  related to the SOFTWARE PRODUCT.
+- Termination: Without prejudice to any other rights, Transport Management may 
+  terminate this EULA if you fail to comply with the terms and conditions.
+
+3. COPYRIGHT
+All title and copyrights in and to the SOFTWARE PRODUCT (including but not 
+limited to any images, photographs, animations, video, audio, music, text, and 
+"applets" incorporated into the SOFTWARE PRODUCT), the accompanying printed 
+materials, and any copies of the SOFTWARE PRODUCT are owned by Transport 
+Management.
+
+4. LIMITED WARRANTY
+Transport Management warrants that the SOFTWARE PRODUCT will perform substantially 
+in accordance with the accompanying materials for a period of ninety (90) days 
+from the date of receipt.
+
+5. DISCLAIMER OF WARRANTIES
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, TRANSPORT MANAGEMENT DISCLAIMS 
+ALL WARRANTIES, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED 
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+6. LIMITATION OF LIABILITY
+IN NO EVENT SHALL TRANSPORT MANAGEMENT BE LIABLE FOR ANY SPECIAL, INCIDENTAL, 
+INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER ARISING OUT OF THE USE OF OR 
+INABILITY TO USE THE SOFTWARE PRODUCT.
+
+7. GOVERNING LAW
+This EULA shall be governed by the laws of your jurisdiction.
+
+If you have any questions concerning this EULA, please contact:
+Transport Management
+Email: support@transportmanagement.com
